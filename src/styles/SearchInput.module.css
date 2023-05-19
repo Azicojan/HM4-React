@@ -1,0 +1,22 @@
+
+
+
+.searchInput{
+    width: 330px;
+    height: 38px;
+    border: 1px solid #70C05B;
+    border-radius: 4px;
+}
+
+.searchContainer{
+    position: relative;
+    display: flex;
+    grid-area: 1/5;
+}
+
+.searchIcon{
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}

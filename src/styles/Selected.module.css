@@ -1,0 +1,17 @@
+
+.selected{
+    display: inline;
+    font-size: 15px;
+    cursor:pointer;
+}
+
+.selectedContainer{
+   grid-area: 1/6;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+
+.shape{
+    margin: 0px 0px 5px 20px; 
+}

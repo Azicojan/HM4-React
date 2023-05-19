@@ -1,0 +1,17 @@
+
+.orders{
+    display: inline;
+    font-size: 15px;
+    cursor:pointer;
+}
+
+.orderContainer{
+   grid-area: 1/7;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+
+.cube{
+    margin: 0px 0px 5px 10px;
+}

@@ -1,0 +1,19 @@
+
+
+.managerName{
+   
+    font-size: 15px;
+    cursor:pointer;
+
+}
+
+.avatarContainer{
+   grid-area: 1/9;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+
+.managerPhoto{
+    margin-bottom: 0px;
+}

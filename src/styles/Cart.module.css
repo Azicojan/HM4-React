@@ -1,0 +1,18 @@
+
+
+.shoppingCart{
+    display: inline;
+    font-size: 15px;
+    cursor:pointer;
+}
+
+.cartContainer{
+   grid-area: 1/8;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+
+.cart{
+    margin-bottom: 5px;
+}

@@ -1,0 +1,19 @@
+
+
+.catalogue_button{
+    width: 140px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #70C05B;
+    border-radius: 4px;
+    grid-area: 1/4;
+    border-style: none;
+    color: #FFFFFF ;
+    cursor: pointer;
+}
+
+.catalogue_button:hover{
+    background-color: #6eb15f;
+}
